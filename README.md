@@ -6,5 +6,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3429-special-array-i](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/3429-special-array-i) |
 <!---LeetCode Topics End-->
