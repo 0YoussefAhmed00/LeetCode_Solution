@@ -4,23 +4,20 @@ using namespace std;
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        multiset<long long> s(nums.begin(), nums.end()); 
+        priority_queue<long long, vector<long long>, greater<long long>> pq(nums.begin(), nums.end()); 
         int count = 0;
-        
-        while (*s.begin() < k) { 
-            auto it = s.begin();
-            long long x = *it; 
-            s.erase(it);
-            
-            it = s.begin();
-            long long y = *it; 
-            s.erase(it);
+
+        while (pq.top() < k) { 
+            long long x = pq.top(); 
+            pq.pop();
+            long long y = pq.top();
+            pq.pop();
             
             long long newVal = min(x, y) * 2 + max(x, y); 
-            s.insert(newVal);
+            pq.push(newVal);
             count++;
         }
-        
+
         return count;
     }
 };
