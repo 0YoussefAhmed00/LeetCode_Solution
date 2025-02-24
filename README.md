@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1894-merge-strings-alternately](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/3447-clear-digits) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1894-merge-strings-alternately](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
