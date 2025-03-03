@@ -5,26 +5,18 @@ public:
     bool isAnagram(string s, string t) {
       int count=0;
       int temp=0;
-      if(s.size()==t.size()){ 
-
-     for(int i =0;i<t.size();i++){
-     temp=s.find(t[i]);
-
-     if(s.find(t[i])!=-1){ 
-
-     s.erase(temp,1);
-     count ++;
-
-     }
-
-     }
-     cout<< count<<"  ";
-     if(count==t.size())
-     return true;
-     else return false;
+      if(s.size()!=t.size())
+      return false;
+      unordered_map<char,int> charcount;
+      for(char& c : s){
+        charcount[c]++;
       }
-      else
-    return 0;
+      for(char& c : t){
+        if(charcount[c]==0)
+        return false;
+        charcount[c]--;
+      }
+    return true;
     }
  
 };
