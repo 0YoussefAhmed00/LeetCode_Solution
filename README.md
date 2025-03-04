@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [1364-tuple-with-same-product](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
