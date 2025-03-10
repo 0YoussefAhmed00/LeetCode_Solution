@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [1364-tuple-with-same-product](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1894-merge-strings-alternately) |
