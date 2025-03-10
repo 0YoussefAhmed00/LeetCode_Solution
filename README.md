@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [1364-tuple-with-same-product](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2434-design-a-number-container-system](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3447-clear-digits](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/3447-clear-digits) |
 ## Counting
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2448-count-number-of-bad-pairs](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
 |  |
