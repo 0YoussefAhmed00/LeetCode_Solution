@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [1364-tuple-with-same-product](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1477-product-of-the-last-k-numbers) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/0389-find-the-difference) |
 | [1364-tuple-with-same-product](https://github.com/0YoussefAhmed00/LeetCode_Solution/tree/master/1364-tuple-with-same-product) |
